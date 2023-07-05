@@ -55,7 +55,7 @@ function Avatar() {
 function Intro() {
   return (
     <div>
-      <h1>Eammon Kiprotich a student of dedan kimathi</h1>
+      <h1>Eammon Kiprotich a student of dedan</h1>
       <p>
         I'm a Bsc computer science student at dedan kimathi who is passionate
         about software engineering as it entails finding solutions for problems
